@@ -1,6 +1,6 @@
-# myvdd2022_tf_PEROTTI
-
 Trabajo práctico Final: "Análisis de tendencia de precios de la soja CME utilizando modelos ARIMA"
+
+
 Manejo y visualización de datos
 MAESTRIA EN ESTADISTICA APLICADA
 
