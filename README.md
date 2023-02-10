@@ -5,10 +5,7 @@ Manejo y visualización de datos -
 MAESTRIA EN ESTADISTICA APLICADA - 
 Rosario, 10/02/2023
 
-El objeto de esta app es poder proporcionar a las personas que operan contratos
-de futuros sobre soja específicamente, una idea del movimiento pasado de los 
-precios del activo en cuestión y un análisis de la tendencia futura de dichos
-precios utilizando para ellos los modelos ARIMA ofrecidos en R. 
+En este repositorio usted podrá encontrar el desarrollo completo de una aplicación shiny que tiene por objeto proporcionar a las personas que operan contratos de futuros sobre soja específicamente, una idea del movimiento pasado de los precios del activo en cuestión y un análisis de la tendencia futura de dichos precios utilizando para ellos los modelos ARIMA ofrecidos en R. 
 
 Un contrato de futuros es un instrumento financiero derivado que tiene como principal fin el descubrimiento de precios de un determinado bien o activo. 
 
