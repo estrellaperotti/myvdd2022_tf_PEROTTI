@@ -1,8 +1,8 @@
-# Trabajo práctico Final: "Análisis de tendencia de precios de la soja CME utilizando modelos ARIMA"
+# Trabajo práctico Final: "Análisis de tendencia de precios de la soja CME® utilizando modelos ARIMA"
 
 
-Manejo y visualización de datos
-MAESTRIA EN ESTADISTICA APLICADA
+Manejo y visualización de datos - 
+MAESTRIA EN ESTADISTICA APLICADA - 
 Rosario, 10/02/2023
 
 El objeto de esta app es poder proporcionar a las personas que operan contratos
