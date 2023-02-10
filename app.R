@@ -188,21 +188,21 @@ server<-function(input, output) {
   # durante el día en un activo en particular, el volumen operado, los precios de 
   # apertura y cierre, los minimos operados y los máximos del día, de allí que para
   # mostrar la evolución se haya optado por este tipo de gráficos y no por uno que 
-  # solo muestre sólo elprecio de cierre. 
+  # solo muestre sólo el precio de cierre. 
   
   
   ###############################################################################
   
   # Comentario al margen pero que puede resultar de interés    
   
-  #Si como programadores qusieramos utilizar un data.frame, para, por ejemplo trabajar
-  #directamente con ggplot2 y no con los paquetes específicos de series de tiempo, 
-  #Recomendamos: 
-  #Primeramente se extraen los datos con la función Getsymbols y luego pasar el 
-  #formato ts a dataframe, utilizando, por ejemplo, la siguiente función:  
+  # Si como programadores qusieramos utilizar un data.frame, para, por ejemplo trabajar
+  # directamente con ggplot2 y no con los paquetes específicos de series de tiempo, 
+   #Recomendamos: 
+  # Primeramente se extraen los datos con la función Getsymbols y luego pasar el 
+  # formato ts a dataframe, utilizando, por ejemplo, la siguiente función:  
   
   
-  #xts_to_datframe<-function(data_xts){
+  # xts_to_datframe<-function(data_xts){
   #  df_t<-data.frame(Fecha=(index(data_xts)),
   #                   Cotización=coredata(data_xts))
   #  colnames(df_t)<-c("Fecha", "sk23", "sn23", "sx23", "sk24")
@@ -210,8 +210,8 @@ server<-function(input, output) {
   #}
   
   # index(data_xts): es una declaración que toma el tiempo de una serie xts diaria.
-  #coredata(data_xts): es una declaración que toma los valores de la serie xts diaria.
-  #colnames (df_t): para renombrar las columnas que se crearan en el dataframe
+  # coredata(data_xts): es una declaración que toma los valores de la serie xts diaria.
+  # colnames (df_t): para renombrar las columnas que se crearan en el dataframe
   
   ##################################################################################    
   
