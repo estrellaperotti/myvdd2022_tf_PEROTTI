@@ -136,9 +136,9 @@ ui <- (fluidPage(
 
 # SERVER
 
-#Para proporcionar las salidas sujeridas anteriormente se extraen datos de una
-#fuente de información pública (YAHOO FINANCE) y en tiempo real mediante el uso 
-#de la función Getsymbols del paquete quantmode. 
+# Para proporcionar las salidas sujeridas anteriormente se extraen datos de una
+# fuente de información pública (YAHOO FINANCE) y en tiempo real mediante el uso 
+# de la función Getsymbols del paquete quantmode. 
 
 
 
@@ -197,7 +197,7 @@ server<-function(input, output) {
   
   # Si como programadores qusieramos utilizar un data.frame, para, por ejemplo trabajar
   # directamente con ggplot2 y no con los paquetes específicos de series de tiempo, 
-   #Recomendamos: 
+  # Recomendamos: 
   # Primeramente se extraen los datos con la función Getsymbols y luego pasar el 
   # formato ts a dataframe, utilizando, por ejemplo, la siguiente función:  
   
