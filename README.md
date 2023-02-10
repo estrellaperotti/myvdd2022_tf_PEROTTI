@@ -12,9 +12,9 @@ precios utilizando para ellos los modelos ARIMA ofrecidos en R.
 
 Un contrato de futuros es un instrumento financiero derivado que tiene como principal fin el descubrimiento de precios de un determinado bien o activo. 
 
-Existe gran variedad de contratos de futuros; este TP se centra en el rubro AG y en el comportamiento de los precios del principal mercado de futuros agro, Chicago Mercantil Exchange. 
+Existe gran variedad de contratos de futuros; este TP se centra en el rubro AG y en el comportamiento de los precios del principal mercado de futuros agropecuarios, Chicago Mercantil Exchange®, CBT Division.  
 
-Para cumplir con este objetivo se trabajó con información acceso libre a través de YAHOO FINANCE, es decir, la aplicación toma los datos de precios de cierre en tiempo real. 
+Para cumplir con este objetivo se trabajó con información acceso libre a través de YAHOO FINANCE, es decir, la aplicación toma los datos de precios de cierre en tiempo real.  
 
 La app le permite interactuar al usuario web con diferentes posiciones sobre el producto "soja". Cabe destacar que si bien existen muchas más posiciones futuras que operan sobre el activo en cuestión, por experiencia en el trading de las mismas, se eligieron aquellas más relevantes. 
 
